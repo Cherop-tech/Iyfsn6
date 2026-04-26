@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="logo">LOGO</div>
+
+    <nav>
+        <a class="active">Home</a>
+        <a>Services</a>
+        <a>About me</a>
+        <a>Portfolio</a>
+        <a>Contact me</a>
+    </nav>
+
+    <button class="top-btn">Hire Me</button>
+</header>
+
+
+<section class="hero">
+
+<div class="left">
+
+<p class="intro">Hi I am</p>
+<h2>Mahmood Fazile.</h2>
+
+<h1>UI/UX designer</h1>
+
+<div class="social">
+<span>◎</span>
+<span>◉</span>
+<span>◈</span>
+<span>⬤</span>
+</div>
+
+<div class="buttons">
+<button class="hire">Hire Me</button>
+<button class="cv">Download CV</button>
+</div>
+
+
+<div class="stats">
+
+<div>
+<h3>5+</h3>
+<p>Experiences</p>
+</div>
+
+<div>
+<h3>20+</h3>
+<p>Project done</p>
+</div>
+
+<div>
+<h3>80+</h3>
+<p>Happy Clients</p>
+</div>
+
+</div>
+
+</div>
+
+
+<div class="right">
+<img src="man.png" alt="person">
+</div>
+
+</section>
+
+</body>
+</html>
